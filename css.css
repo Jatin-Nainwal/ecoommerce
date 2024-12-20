@@ -20,12 +20,12 @@
         nav {
             display: flex;
             justify-content: center;
-            background-color: #444;
+            background-color: hsl(216, 8%, 88%);
             padding: 10px;
         }
 
         nav a {
-            color: white;
+            color: rgb(46, 33, 34);
             text-decoration: none;
             margin: 15px;
             margin-left: 150px;
